@@ -42,14 +42,14 @@
 <a href="https://www.instagram.com/rober.lopez1105/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rober.lopez1105" /></a>
 <a href="https://www.facebook.com/rober.lopez1105" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="rober.lopez1105"  /></a>
   <a href="https://www.youtube.com/@Roberto.Lopez.1105" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Roberto.Lopez.1105"  /></a>
+<a href="mailto:roberlopez1105@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="roberlopez1105@gmail.com" />
+</a>
 </p>
+
 
 > 💬 *"Siempre hay algo nuevo por descubrir. La curiosidad y la constancia hacen al desarrollador."*
 
 ---
-
-
-
-
 ---
 📁 ¡Explorá mis proyectos acá en GitHub y sentite libre de dejarme un ⭐ si algo te gusta!

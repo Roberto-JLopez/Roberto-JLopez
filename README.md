@@ -34,10 +34,10 @@
 ## 🔗 Conectá conmigo
 
 <p align="left">
-  <a href="https://www.youtube.com/@Roberto.Lopez.1105" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Roberto.Lopez.1105"  /></a>
+<a href="https://www.linkedin.com/in/roberto-jose-lopez-59a7b5326/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="roberto-jose-lopez-59a7b5326"/></a>
 <a href="https://www.instagram.com/rober.lopez1105/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rober.lopez1105" /></a>
-<a href="https://www.linkedin.com/in/roberto-jose-lopez-59a7b5326/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="roberto-jose-lopez-59a7b5326"/></a>
 <a href="https://www.facebook.com/rober.lopez1105" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="rober.lopez1105"  /></a>
+  <a href="https://www.youtube.com/@Roberto.Lopez.1105" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Roberto.Lopez.1105"  /></a>
 </p>
 
 > 💬 *"Siempre hay algo nuevo por descubrir. La curiosidad y la constancia hacen al desarrollador."*
